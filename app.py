@@ -84,6 +84,10 @@ def add_karvand():
     print("Karvand added successfully.\n")
 
 
+def search_by_id():
+    print("\nSearch by ID")
+    pass
+
 
 
 def display_all():
