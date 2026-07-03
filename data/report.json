@@ -1,0 +1,12 @@
+{
+    "total_karvands": 2,
+    "total_skills_count": 2,
+    "average_skill_score": 62.5,
+    "cities": {
+        "tehran": 1,
+        "shiraz": 1
+    },
+    "unique_skills": [
+        ""
+    ]
+}
